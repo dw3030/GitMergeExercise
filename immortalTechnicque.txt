@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 POINT OF NO RETURN
 
 [Intro]
@@ -82,3 +83,6 @@ This is the point from which I will die or succeed
 Livin' the struggle, I know I'm alive when I bleed
 From now on, it can never be the same as before
 'Cause the place that I'm from doesn't exist anymore
+=======
+censored!
+>>>>>>> conflictor
